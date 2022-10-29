@@ -1,27 +1,54 @@
 
+[Comment installer Qiskit](./installer-qiskit.md)
+
 # Qiskit Fall Fest Morocco 2022
 
-## Welcome
-We're so exciting to have you all here!
+Nous sommes très heureux d'organiser un Qiskit Fall Fest Hackathon en Maroc! Le hackathon est ouvert à tout le monde en Maroc.
 
-The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
-
-The Fall Fest Morocco is going to be a hackathon, starting on October 29th. Details about the hackathon and rules can be found below. The deadline for all projects is November 1st, at 12am. Any projects submitted after that will NOT be judged. Good luck!
-
---------------------------------
-## Official Registration
-- To officially sign up, register using [this link!](https://sites.google.com/view/qiskit-fall-fest-morocco/home)
+Ce hackathon est une opportunité de commencer à découvrir (ou approfondir) le milieu du calcul quantique en programmant avec Qiskit (une bibliothèque pour le calcul quantique développée par IBM) et de construire des super projets en équipe!
 
 
-## Hackathon Details
-- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 29th at 9pm
-- All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
-- You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
+## Problèmes
+
+Nous sommes en train de préparer une liste de projets adaptés à tous les niveaux et nous la publieront bientôt sur cette page! Bien entendu, vous êtes encouragés à venir avec votre propre projet si vous avez déjà une idée, et nous seront ravis de vous aider à l'affiner avant le début du hackathon si vous le désirez. Tous les sujets relevants du calcul quantique sont acceptés et bienvenus! 
+
+Voici quelques idées préliminaires:
+
+Création d'un jeu inspiré du monde du quantique ou utilisant les ressources d'un ordinateur quantique, implémentation d'un papier de recherche dans le but de répliquer les résultats ou améliorer l'approche, marchine learning quantique, etc.
 
 
---------------------------------
 
-Make sure to join the [Discord](https://discord.gg/Gzjt7VTY) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
+## Hackathon Schedule 
+
+Toutes les heures sont sur le fuseau horaire de Paris (CET).
+
+| Inscription                             |                 |
+|:---------------------------------------:|:---------------:|
+| Speaker session 1                       | Oct 27, 2PM     |
+| Qiskit Workshop 1                       | Oct 27, 2PM30   |
+| Qiskit Workshop 2                       | Oct 27, 4PM     |
+| Speaker session 2                       | Oct 28, 10AM30  |
+| Qiskit Workshop 3                       | Oct 28, 11AM30  |
+| Speaker session 3                       | Oct 28, 2PM30  |
+| Speaker session 4                       | Oct 28, 3PM30  |
+| Création des équipes et choix du projet | Oct 27 - Oct 29 |
+| Évènement de lancement                  | Oct 28, 5PM     |
+| Hacking                                 | Oct 29 - Nov 1  |
+| Deadline pour la soumission des projets | Nov 1, 0AM     |
+| Présentation du projet                  | Nov 2 - Nov 3   |
+| Annonce des résultats                   | Nov 5           |
 
 
-### [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+## Inscription
+L'inscription se fait en remplissant ce [Google Form](https://forms.gle/VnTBQsHq2jKtp2fE7). Les équipes sont composées de 5 participants. Si vous avez déjà une équipe, n'oubliez pas de le mentionner dans le questionnaire! Pour les participants qui n'ont pas d'équipe ou qui ne sont pas assez pour faire une équipe complète, ne vous inquiétez pas: nous créerons une équipe pour vous!
+
+Tous les participants seront invités sur le salon Discord créé spécialement pour l'occasion.
+
+
+## Notes importantes
+  * Des prix sont prévus pour les équipes gagnantes et seront communiqués prochainement. Les meilleures équipes seront mises en contact avec les équipes d'IBM et auront peut-être la possibilité de participer au Qiskit Global Hackathon, l'évènement annuel organisé par IBM autour de la bibliothèque Qiskit.
+  * Tous les projets doivent utiliser Qiskit, le SDK open-source permettant de travailler avec des ordinateurs quantiques au niveau des impulsions, des circuits et des modules d'application. Vous pouvez en savoir plus sur Qiskit et commencer à vous familiariser en utilisant cet [link](https://qiskit.org/learn/).
+  * [Comment installer Qiskit](./installer-qiskit.md)
+
+
+
